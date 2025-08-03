@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Der Wettbewerb</string>
+<string name="score_label">Punktzahl: %1$d</string>
+<string name="red_button">Rot</string>
+<string name="blue_button">Blau</string>
+<string name="green_button">Grün</string>
+<string name="reset_button">Zurücksetzen</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Contest</string>
+    <string name="score_label">Score: %1$d</string>
+    <string name="red_button">Red</string>
+    <string name="blue_button">Blue</string>
+    <string name="green_button">Green</string>
+    <string name="reset_button">Reset</string>
+</resources>
